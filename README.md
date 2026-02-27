@@ -1,23 +1,25 @@
 ---
 
-## 📊 Model Accuracy Output
+## 📊 Model Training Output
 
-![Accuracy](accuracy.png)
+![Model Training Output](model_training_output.png.png)
 
 ---
 
 ## 🖥 GUI Interface
 
-![GUI](gui.png)
+![GUI Interface](gui_interface.png.png)
 
 ---
 
 ## ✅ Low Risk Prediction
 
-![Low Risk](low_risk.png)
+![Low Risk](low_risk_prediction.png.png)
 
 ---
 
 ## ⚠ High Risk Prediction
 
-![High Risk](high_risk.png)
+![High Risk](high_risk_prediction.png.png)
+
+---
