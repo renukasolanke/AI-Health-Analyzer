@@ -14,12 +14,12 @@
 
 ## ✅ Low Risk Prediction
 
-![Low Risk](low_risk_prediction.png.png)
+![Low Risk Prediction](low_risk_prediction.png.png)
 
 ---
 
 ## ⚠ High Risk Prediction
 
-![High Risk](high_risk_prediction.png.png)
+![High Risk Prediction](high_risk_prediction.png.png)
 
 ---
